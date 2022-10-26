@@ -1,0 +1,17 @@
+.navbar-title {
+    text-align: center;
+    font-size: x-large;
+}
+
+nav {
+    width
+}
+
+nav > ul {
+    display: flex;
+    flex-direction: row;
+}
+
+nav > ul > li {
+    margin: auto;
+}
